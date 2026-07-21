@@ -1,0 +1,130 @@
+# 📱 PixelUI
+
+## 🎯 But
+
+Transformer un téléphone ou une tablette Xiaomi/Redmi **sans root** pour qu'il ressemble le plus possible à un Google Pixel.
+
+HyperOS reste installé en arrière-plan, mais l'utilisateur voit surtout PixelUI.
+
+---
+
+# 💡 Philosophie
+
+- Android pur
+- Interface minimaliste
+- Zéro pub Xiaomi
+- Zéro application inutile
+- Rapide
+- Fluide
+- Simple
+
+---
+
+# 🎨 Design
+
+- Fond d'écran PixelUI
+- Icônes rondes
+- Launcher type Nova ou équivalent
+- Couleurs Material You
+- Widgets propres
+- Police Google
+- Animations fluides
+
+---
+
+# 📦 PixelUI Pack
+
+Le pack pourrait contenir :
+
+```
+PixelUI.zip
+
+│
+├── Guide.pdf
+├── Wallpaper
+├── Bootanimation
+├── Launcher
+├── Icônes
+├── Widgets
+├── Sons
+└── Configuration
+```
+
+---
+
+# 📄 Guide PDF
+
+Le guide explique :
+
+- désactiver les pubs Xiaomi
+- nettoyer HyperOS
+- installer le launcher
+- installer les icônes
+- appliquer le fond d'écran
+- appliquer la boot animation (si compatible)
+
+---
+
+# 📱 Applications recommandées
+
+Seulement des applications utiles :
+
+- Gestionnaire de fichiers
+- Galerie
+- Calculatrice
+- Notes
+- Horloge
+- Agenda
+- Chrome ou Firefox
+- Google Photos (optionnel)
+
+Pas de jeux préinstallés.
+
+---
+
+# 🔧 Optimisations
+
+Le guide indique aussi comment :
+
+- désactiver les recommandations Xiaomi
+- retirer les applications inutiles (quand c'est possible sans root)
+- optimiser la batterie
+- optimiser les animations
+- garder HyperOS fluide
+
+---
+
+# 💎 Le principe
+
+```
+HyperOS
+     ↓
+PixelUI
+```
+
+HyperOS continue de gérer :
+
+- le processeur
+- la batterie
+- les pilotes
+- l'écran
+- le Wi-Fi
+- le Bluetooth
+
+PixelUI change surtout l'expérience utilisateur.
+
+---
+
+# 🏆 Les avantages
+
+✅ Interface propre
+
+✅ Pas de pubs Xiaomi (autant que possible)
+
+✅ Launcher Pixel
+
+✅ Design moderne
+
+✅ Android plus agréable
+
+✅ Installation sans root (pour les éléments compatibles)
