@@ -1,0 +1,125 @@
+1) Désactiver les pubs Xiaomi
+
+Va dans :
+
+Paramètres → va dans barre recherche → Autorisation et révocation
+
+Désactive : tous 
+
+msa (si présent)
+autre si present tout doit etre desactiver 
+Ensuite :
+
+Paramètres → Applications → Gérer les applications
+
+Cherche ces applis :
+
+Sécurité
+Thèmes
+Téléchargements
+Musique
+Gestionnaire de fichiers
+
+Dans chaque application :
+
+désactiver les recommandations
+désactiver les notifications inutiles
+2) Supprimer les applications inutiles
+
+Va dans :
+
+Paramètres → Applications → Applications installées
+
+Désinstalle ce dont tu n'as pas besoin :
+
+Exemples possibles :
+
+jeux préinstallés
+applications Xiaomi inutilisées
+
+⚠️ Ne supprime pas :
+
+Sécurité
+Lanceur système
+Services Google
+Mise à jour système
+3) Nettoyer le stockage
+
+Va dans :
+
+Paramètres → Stockage
+
+Supprime :
+
+fichiers temporaires
+caches inutiles
+anciens fichiers APK
+
+Tu peux utiliser :
+
+Files by Google
+l'analyseur de stockage Xiaomi
+4) Accélérer les animations
+
+Active les options développeur :
+
+Paramètres → À propos du téléphone → Version HyperOS
+
+Appuie 7 fois sur :
+Version HyperOS
+
+Puis :
+
+Paramètres → Paramètres supplémentaires → Options développeur
+
+Change :
+
+Échelle animation fenêtre → 0,5x
+Échelle animation transition → 0,5x
+Échelle durée animateur → 0,5x
+5) Optimiser la batterie
+
+Va dans :
+
+Paramètres → Batterie
+
+Active :
+
+optimisation batterie
+mode économie pour les applis inutilisées
+
+Désactive l'activité en arrière-plan pour les applis inutiles.
+
+6) Écran d'accueil propre (style PixelUI)
+
+Installe un launcher :
+
+Lawnchair (style Pixel)
+Nova Launcher
+
+Configure :
+
+icônes rondes
+moins de pages
+widgets simples
+7) Sécurité
+
+Garde :
+✅ Play Protect
+✅ mises à jour système
+✅ applications depuis sources fiables
+
+Évite les "boosters RAM" miracles, souvent ils font plus de mal que de bien.
+
+Résultat attendu :
+
+Avant :
+❌ pubs
+❌ applis inutiles
+❌ notifications partout
+
+Après :
+✅ interface propre
+✅ moins de bruit
+✅ système plus agréable
+✅ expérience proche Android pur
